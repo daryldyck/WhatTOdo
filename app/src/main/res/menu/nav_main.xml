@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.MainActivity">
+
+    <group
+        android:id="@+id/homegroup"
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/action_home"
+            android:icon="@drawable/ic_nav_home"
+            android:title="@string/home" />
+
+        <item
+            android:id="@+id/action_attraction_list"
+            android:icon="@drawable/ic_nav_attraction"
+            android:title="@string/tourist_attraction_list" />
+
+        <item
+            android:id="@+id/action_map"
+            android:icon="@drawable/ic_nav_map"
+            android:title="@string/map" />
+
+    </group>
+
+    <group
+        android:id="@+id/homegroup2"
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/action_logout"
+            android:icon="@drawable/ic_nav_logout"
+            android:title="@string/logout" />
+
+        <item
+            android:id="@+id/action_about"
+            android:icon="@drawable/ic_nav_about"
+            android:title="@string/about" />
+
+    </group>
+</menu>

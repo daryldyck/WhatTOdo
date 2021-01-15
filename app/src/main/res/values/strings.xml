@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">WhatTOdo</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="theme_light">Light theme</string>
+    <string name="theme_dark">Dark theme</string>
+    <string name="theme_default">System default</string>
+
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="mandatory_field">Mandatory field</string>
+    <string name="user_does_not_exist">Sorry, that user does not exist.</string>
+    <string name="incorrect_password">Incorrect Password</string>
+    <string name="about">About</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+    <string name="tourist_attraction_list">Tourist Attraction List</string>
+    <string name="map">Map</string>
+    <string name="toronto_attractions">Toronto Attractions</string>
+    <string name="in">in</string>
+    <string name="toronto">Toronto</string>
+    <string name="home">Home</string>
+    <string name="wish_list">Wish List</string>
+    <string name="attraction_details">Attraction Details...</string>
+    <string name="by">By</string>
+    <string name="daryl_dyck">Daryl Dyck</string>
+    <string name="version_">Version:</string>
+    <string name="email_address">daryl@deniteappz.com</string>
+    <string name="close">Close</string>
+
+</resources>

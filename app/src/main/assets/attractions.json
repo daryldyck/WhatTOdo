@@ -1,0 +1,194 @@
+﻿[
+  {
+    "id": "0",
+    "name": "Casa Loma",
+    "address": "1 Austin Terrace\nToronto, Ontario M5R 1X8",
+    "photosList": [
+      "https://brightlightsofamerica.com/wp-content/uploads/2018/04/Casa-Loma-History-1-1080x720.jpg",
+      "https://3iqhm91wtiv21y4zza4dqwj2-wpengine.netdna-ssl.com/wp-content/uploads/Canada-Toronto-Casa-Loma-1440x974.jpg",
+      "https://casaloma.ca/wp-content/uploads/2018/04/140814-1067-2.jpg",
+      "https://www.everyeventguide.com/wp-content/uploads/2017/09/Casa-Loma-Terrace-Gardens10.jpg",
+      "https://www.eventsource.ca/blog/wp-content/uploads/2015/01/fusionevents0029.jpg"
+    ],
+    "phone": "4169231171",
+    "website": "https://casaloma.ca",
+    "description": "A prime example of modern Toronto’s commitment to its rich history, Casa Loma was first built in 1914 by financier Sir Henry Pellatt. The castle located in midtown Toronto, is now owned by the City of Toronto and is regarded as a treasured heritage landmark.Today, Casa Loma is one of Toronto’s top tourist attractions and hospitality venues. Each year over 350,000 visitors tour Casa Loma and the estate gardens. A perfect backdrop for special occasions, Casa Loma also plays host to over 250 private events annually. The unique architecture has also made it a highly desirable location for film, television and photo shoots.",
+    "price": "$22.15 - $32.49"
+  },
+  {
+    "id": "1",
+    "name": "CN Tower",
+    "address": "290 Bremner Blvd\nToronto, Ontario M5V 3L9",
+    "photosList": [
+      "https://www.telegraph.co.uk/content/dam/travel/Spark/trailfinders-canada/toronto-skyline-cn-tower.jpg",
+      "https://pow.ca/wp-content/uploads/2018/09/EdgeWalk-wide-view-623x350-1.jpg",
+      "https://thebluebrick.files.wordpress.com/2012/10/cn-tower-1-copy.jpg",
+      "https://i.imgur.com/rjJKXvq.png",
+      "https://media-cdn.tripadvisor.com/media/vr-splice-j/08/f0/bd/b8.jpg"
+    ],
+    "phone": "4168686937",
+    "website": "https://www.cntower.ca",
+    "description": "Toronto's famous landmark, the 553-meter CN Tower, is one of the city's must see attractions and also the most impossible to miss. Towering above the downtown, this Canadian icon can be seen from almost everywhere in the city. You have the option of simply appreciating the building from the ground, or taking a trip up to one of the observation areas or restaurants for fabulous views over the city and Lake Ontario. The CN Tower, built between 1972 and 1976, was once the tallest freestanding structure in the world, but has long since been surpassed.",
+    "price": "$13 - $39"
+  },
+  {
+    "id": "2",
+    "name": "Royal Ontario Museum",
+    "address": "100 Queen’s Park\nToronto, Ontario M5S 2C6",
+    "photosList": [
+      "https://www.planetware.com/photos-large/CDN/canada-toronto-royal-ontario-museum.jpg",
+      "https://beta.images.theglobeandmail.com/64c/arts/art-and-architecture/article37310108.ece/BINARY/w620/rom12nw.JPG",
+      "https://blogs.studentlife.utoronto.ca/lifeatuoft/files/2015/02/vt_1.jpg",
+      "https://torontoguardian.com/wp-content/uploads/2017/03/33116868676_05c7f07c96_k.jpg",
+      "https://s3-media0.fl.yelpcdn.com/bphoto/0t1VXlaMq23qBNuhM9GTlw/l.jpg"
+    ],
+    "phone": "4165868000",
+    "website": "https://www.rom.on.ca",
+    "description": "The Royal Ontario Museum, known as the ROM, is one of Canada's premier museums, with an international reputation for excellence. It houses an outstanding collection, which covers natural history, art, and culture from a great variety of periods from all over the world. It is also well-known for featuring exhibitions from across the globe.",
+    "price": "FREE - $35"
+  },
+  {
+    "id": "3",
+    "name": "Ripley's Aquarium",
+    "address": "288 Bremner Boulevard\nToronto, ON M5V 3L9",
+    "photosList": [
+      "https://afar-production.imgix.net/uploads/images/post_images/images/iRHoZmTmpJ/original_7a6159acdc819139da2d44a4523fba47.jpg",
+      "https://www.ripleyaquariums.com/canada/files/2020/04/Rainbow-Reef-Camera_NoText1800x1200.jpg",
+      "https://www.ripleyaquariums.com/canada/files/2017/06/Rainbow_Silhouette_FULL-1024x683.jpg",
+      "https://s3.amazonaws.com/zweb-s3.uploads/carp/2016/05/RipleyRainbow700x520.jpg",
+      "https://res.cloudinary.com/ourkids/image/upload/w_720/v1542213082/camp/profile/956_camp_profile.jpg"
+    ],
+    "phone": "6473513474",
+    "website": "https://www.ripleyaquariums.com/canada",
+    "description": "One of Toronto's newest top attractions is the Ripley's Aquarium near the base of the CN Tower. This fabulous facility displays all kinds of marine life and is one of the most popular things to do in Toronto for families.\n\nThe most impressive feature is the huge underwater tunnel with a moving sidewalk. You can watch the ocean world go by all around you as sharks glide past and sawfish linger on the tunnel roof above. This is a truly serene experience for all ages.",
+    "price": "$13 - $105"
+  },
+  {
+    "id": "4",
+    "name": "Niagara Falls",
+    "address": "6815 Stanley Avenue\nNiagara Falls, Ontario L2G 3Y9",
+    "photosList": [
+      "https://tourscanner.com/blog/wp-content/uploads/2020/07/best-things-to-do-in-Niagara-Falls.jpg",
+      "https://www.planetware.com/wpimages/2020/02/new-york-city-to-niagara-falls-best-ways-to-get-there-organized-tour.jpg",
+      "https://cdn.getyourguide.com/img/tour/5ca8d77ebf807.jpeg/146.jpg",
+      "https://www.arcgis.com/sharing/rest/content/items/8051e85a76ea4e6cb13b9fb9841fc3ad/resources/1568911604880.jpeg",
+      "https://cdn.getyourguide.com/img/tour/5c9cd252545b0.jpeg/146.jpg"
+    ],
+    "phone": "18005632557",
+    "website": "https://www.niagarafallstourism.com",
+    "description": "If you have never been, a quick day trip from Toronto to Niagara Falls is well worth the time. You can be standing on the edge of the falls in just over an hour.\n\nA tour to Niagara Falls from Toronto is an easy way to see the falls if you don't want to drive yourself. Tours offer hotel pickup and drop-off and include a Hornblower Niagara Cruise, which takes you up close to the wall of water tumbling that is the main Horseshoe Falls. Tours also stop at some of the key sites in the area, including Whirlpool Rapids, the Floral Clock, and the beautiful little town of Niagara-on-the-Lake.",
+    "price": "FREE - $335"
+  },
+  {
+    "id": "5",
+    "name": "Toronto Zoo",
+    "address": "361A Old Finch Avenue\nToronto, Ontario M1B 5K7",
+    "photosList": [
+      "https://i.pinimg.com/originals/2b/26/45/2b2645e0e86f3e800341b1964b01758c.jpg",
+      "https://d302e0npexowb4.cloudfront.net/wp-content/uploads/2017/08/14110938/toronto-zoo-lion.jpg",
+      "https://www.torontopubliclibrary.ca/content/museum-arts-passes/images/venues/hero-zoo.jpg",
+      "https://canada.constructconnect.com/app/uploads/2020/09/Toronto-Zoo-Orangutan-Perspective-Renderings-3-viewing-shelter-mainweb.jpg",
+      "https://www.toronto4kids.com/images/cache/cache_5/cache_a/cache_f/drive-thru-zoo-lead-de2aafa5.jpeg"
+    ],
+    "phone": "4163925900",
+    "website": "https://www.torontozoo.com",
+    "description": "Toronto zoo has an outstanding and diverse collection, with approximately 5,000 animals. Some of the favorites include pygmy hippos, lions, tigers, giraffes, penguins, orangutans, and many more. The zoo is divided into several sections, each representing a major region of the globe. Some of the other highlights at the Toronto Zoo include the Gorilla Rainforest; the Tundra Trek, featuring polar bears; and the Great Barrier Reef.",
+    "price": "$12 - $29.77"
+  },
+  {
+    "id": "6",
+    "name": "St. Lawrence Market",
+    "address": "92-95 Front St East\nToronto, Ontario M5E 1C3",
+    "photosList": [
+      "https://www.everest-restoration.com/wp-content/uploads/2018/02/Direct-Construction-St-Lawrence-Market.jpg",
+      "https://images.dailyhive.com/20200113080110/stlawrencemarket.jpeg",
+      "https://i.pinimg.com/originals/38/4d/c9/384dc9dccf76d121c4ddba6365b4a63f.jpg",
+      "https://dynamicmedia.zuza.com/zz/m/original_/5/4/5442c3e5-bbdd-42c1-841b-d717d6f98e98/EYFM_96bd6___Super_Portrait.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cf/StLawrenceMarket.jpg"
+    ],
+    "phone": "4163927219",
+    "website": "http://www.stlawrencemarket.com",
+    "description": "The St. Lawrence Market houses a variety of vendors selling various food products, flowers, and specialty items. The St. Lawrence Hall was built in Toronto in 1850 and served as a public meeting place and a concert venue. The hall was restored in 1967 but has retained much of its old charm. The building provides a unique atmosphere for the market and is also occasionally used for film and television shoots. The interior features a grand staircase and a gas-lit chandelier.",
+    "price": "FREE"
+  },
+  {
+    "id": "7",
+    "name": "Nathan Philips Square",
+    "address": "100 Queen St W\nToronto, Ontario M5G 1P5",
+    "photosList": [
+      "https://thephotoexplorer.com/wp-content/uploads/2017/05/Toronto_City_Hall.jpg",
+      "https://cdn.skyrisecities.com/sites/default/files/images/articles/2019/12/40355/40355-133720.jpg",
+      "https://live.staticflickr.com/7924/46445998631_ef2a8bb189_b.jpg",
+      "https://www.toronto.ca/wp-content/uploads/2017/11/977c-nps_michael_widener.jpg",
+      "https://dynamicmedia.zuza.com/zz/m/original_/1/f/1fc1e8fb-add0-49aa-ac86-94112b53b7e1/Nathan-Phillips-Square_Super_Portrait.jpg"
+    ],
+    "phone": "0",
+    "website": "https://cutt.ly/nathanphillips",
+    "description": "Dominating the spacious Nathan Philips Square with its bronze sculpture, The Archer, by Henry Moore, is the still highly acclaimed new City Hall. It was designed by the gifted Finnish architect Viljo Revell and built in 1965. City Hall consists of two arc-shaped high-rise blocks, 20 and 27 stories high respectively, wrapped around a lower central building topped by a flattened cupola.\n\nIn the square in front of City Hall is a man-made pond, which becomes a popular skating rink in winter and is where the often photographed Toronto sign is located. This is a beautiful area to visit in December, particularly at night, when it's decorated for the Christmas holidays.",
+    "price": "FREE"
+  },
+  {
+    "id": "8",
+    "name": "Distillery District",
+    "address": "9 Trinity Street\nToronto, Ontario M5A 3C4",
+    "photosList": [
+      "https://curiocity.com/toronto/wp-content/uploads/2019/03/distillery.jpg",
+      "https://www.thedistillerydistrict.com/wp-content/uploads/2018/11/Event-2.jpg",
+      "https://3.bp.blogspot.com/-zp_KWMQh5pI/VmjTqSOTZII/AAAAAAAALFQ/nR3Dw4qhED8/s1600/DSCF1689.JPG",
+      "https://d36tnp772eyphs.cloudfront.net/blogs/1/2019/09/Distillery-District-Toronto-2.jpg",
+      "https://www.thedistillerydistrict.com/wp-content/uploads/2018/11/Event-3.jpg"
+    ],
+    "phone": "4163641177",
+    "website": "https://www.thedistillerydistrict.com",
+    "description": "Toronto's Distillery District is a restored historic area, which has been transformed into a trendy entertainment and shopping district. Charming boutiques, galleries, artists' studios, and restaurants fill the old buildings. This is an interesting place to come during the day or evening and any time of year.\n\nA variety of entertainment events are held here, but one of the most well-known is the annual Toronto Christmas Market. Wooden stalls all decorated for Christmas sell unique gifts; a huge Christmas tree stands in an open square; and cozy outdoor areas are set up, often with couches and large fire pits to gather around. Restaurants offer outdoor dining despite the cold, with heat lamps and lap blankets. Hot chocolate is always readily available at this time of year.",
+    "price": "FREE"
+  },
+  {
+    "id": "9",
+    "name": "Toronto Islands",
+    "address": "11 Island Road\nToronto, Ontario M1C 0E4",
+    "photosList": [
+      "https://d2l4kn3pfhqw69.cloudfront.net/wp-content/uploads/2020/06/toronto-ferry.jpg",
+      "https://gotourismguides.com/toronto/wp-content/uploads/2011/12/centre-island-toronto.jpg",
+      "https://media2.zuza.com/toronto/2017/06/islands-720-copy.jpg",
+      "https://images.dailyhive.com/20170731065401/shutterstock_598611029.jpg",
+      "https://cdn.juliekinnear.com/imagesall/2018/08/toronto-islands-beach.jpg"
+    ],
+    "phone": "4163972628",
+    "website": "https://www.torontoisland.com",
+    "description": "The ferry trip from Queen's Quay Terminal to the Toronto Islands, about a kilometer offshore, is the prelude to a thoroughly enjoyable outing. There are lovely walks on the islands, as well as the opportunity for rowing, sailing, swimming, and other outdoor activities. In summer, the Toronto Islands are the venue for numerous open-air events. In favorable weather, there is a stunning view of the Toronto skyline.\n\nThe Centreville Amusement Park is located on Centre Island, one of the Toronto Islands, and features a variety of children's rides. The Toronto Islands Ferry Service runs from Queen's Quay and travels to each of the main Toronto Islands.",
+    "price": "$3.95 - $8.19"
+  },
+  {
+    "id": "10",
+    "name": "Bata Shoe Museum",
+    "address": "327 Bloor Street West\nToronto, Ontario M5S 1W7",
+    "photosList": [
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d9/e9/61.jpg",
+      "https://akimbo.ca/wp-content/uploads/2019/07/jul17_bsm1.jpg",
+      "https://media.cntraveler.com/photos/5b2c0678a922401ef6fae3dc/master/pass/Bata-Shoe-Museum__2018_GettyImages-537801134.jpg",
+      "https://i.pinimg.com/originals/d7/02/70/d70270d9785a13dd0879a729a65c5bd4.jpg",
+      "https://cdn.theculturetrip.com/wp-content/uploads/2016/07/eltonplatorms.jpg"
+    ],
+    "phone": "4169797799",
+    "website": "https://batashoemuseum.ca",
+    "description": "Do you like shoes? Like, do you REALLY like shoes? Would a museum full of shoes make you happy? If so, the BATA Shoe Museum might be for you to check out! Located on Bloor Street just north of downtown, the museum has done an amazing job of collecting and showcasing footwear from all around the world.",
+    "price": "$14 - $35"
+  },
+  {
+    "id": "11",
+    "name": "Harbourfront Centre",
+    "address": "235 Queens Quay West\nToronto, Ontario M5J 2G8",
+    "photosList": [
+      "https://aplust.net/imagenes_blog/toronto%20waterfront%202016/2-toronto-waterfront-west8.jpg",
+      "https://www.harbourfrontcentre.com/media/wp-content/uploads/2014/07/Harbourfront-Centre-Pulse-Front-Photo-Mike-Lee.jpg",
+      "https://dl1qyinjd5-flywheel.netdna-ssl.com/wp-content/uploads/2018/05/waterfront1.jpg",
+      "https://www.harbourfrontcentre.com/images/venues/2016/slip2.jpg",
+      "https://images.dailyhive.com/20171215104946/Screen-Shot-2017-12-15-at-1.45.59-PM.png"
+    ],
+    "phone": "4169734000",
+    "website": "http://www.harbourfrontcentre.com",
+    "description": "If you are looking for things to do down near the waterfront, head to the Harbourfront Centre! The Centre itself is actually an area of the pier described as a “cultural hub”. This means that there are walking paths, performance stages, exhibits, restaurants, coffee shops, and much more.\n\nThere is always something going on down at the Harbourfront Centre. You can get great photos down by the lake, and the proximity to Amsterdam Brewhouse is also nice!",
+    "price": "FREE"
+  }
+]

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--DARK COLOR THEME-->
+
+    <color name="colorPrimary">#274490</color>
+    <color name="colorPrimaryLight">#172956</color>
+    <color name="colorPrimaryDark">#7d8fbc</color>
+
+    <color name="colorPrimaryVariant">#a9b4d3</color>
+    <color name="colorPrimaryVariantLight">#101b3a</color>
+
+    <color name="colorSecondary">#ff0000</color>
+    <color name="colorSecondaryLight">#ff6666</color>
+    <color name="colorSecondaryDark">#990000</color>
+    <color name="colorSecondaryVariant">#660000</color>
+
+    <color name="colorAccent">#EAC300</color>
+    <color name="colorAccentLight">#E4D16E</color>
+
+    <color name="colorBackground">@color/black_85</color>>
+    <color name="colorSurface">@color/black_80</color>
+
+    <color name="colorOnPrimary">#ffffff</color>
+    <color name="colorOnSecondary">#ffffff</color>
+    <color name="colorOnBackground">@color/black_5</color>
+    <color name="colorOnBackgroundSecondary">@color/black_25</color>
+    <color name="colorOnError">#ffffff</color>
+    <color name="colorOnSurface">#ffffff</color>
+    <color name="colorError">#B00000</color>
+
+    <color name="primaryBackground">@color/black_10</color>
+    <color name="secondaryBackground">@color/white</color>
+    <color name="roundIconBackground">#FFFFFF</color>
+
+    <color name="statusBarBg">@color/colorPrimaryLight</color>
+    <color name="toolbarBg">@color/colorPrimary</color>
+    <color name="navigationBarColor">@color/colorPrimaryLight</color>
+
+    <color name="bottomNavBg">@color/colorSecondary</color>
+    <color name="navIcon">@color/colorPrimaryVariantLight</color>
+    <color name="navIconSelected">@color/white</color>
+
+    <color name="ratingDefault">@color/black_20</color>
+    <color name="ratingPressed">@color/colorPrimaryVariant</color>
+    <color name="ratingSelected">@color/colorSecondary</color>
+
+    <color name="logoMain">@color/colorPrimaryDark</color>
+    <color name="logoAccent">@color/colorSecondary</color>
+
+    <color name="skyLineLight">@color/colorPrimary</color>
+    <color name="skyLineMedium">@color/colorPrimaryLight</color>
+    <color name="skyLineDark">@color/colorPrimaryDark</color>
+
+    <color name="previewSkyLineLight">@color/colorPrimaryDark</color>
+    <color name="previewSkyLineMedium">@color/colorPrimary</color>
+    <color name="previewSkyLineDark">@color/colorPrimaryLight</color>
+    <color name="previewSkyLineBackground">@color/colorPrimaryVariant</color>
+
+    <color name="navHeaderBg">@color/colorSecondary</color>
+    <color name="navDrawerBg">@color/black_85</color>
+    <color name="navDrawerDivider">@color/black_80</color>
+
+    <color name="navDrawerMenuIcon">@color/colorPrimaryDark</color>
+    <color name="navDrawerMenuText">@color/colorOnBackgroundSecondary</color>
+
+    <color name="homeInText">@color/colorSecondary</color>
+    <color name="homeTorontoText">@color/white</color>
+
+    <color name="attractionHeaderText">@color/colorPrimaryDark</color>
+    <color name="attractionPreviewNameText">@color/colorOnBackground</color>
+    <color name="attractionPreviewAddressText">@color/colorOnBackgroundSecondary</color>
+    <color name="attractionDetailsNameText">@color/colorOnBackground</color>
+    <color name="attractionDetailsAddressText">@color/colorOnBackgroundSecondary</color>
+    <color name="attractionDetailsTitleText">@color/colorPrimary</color>
+    <color name="attractionDetailsDescriptionText">@color/colorOnBackgroundSecondary</color>
+
+    <color name="aboutTitleText">@color/colorOnBackground</color>
+    <color name="aboutByText">@color/colorOnBackground</color>
+    <color name="aboutAuthorText">@color/colorPrimaryDark</color>
+    <color name="aboutVersionText">@color/colorOnBackgroundSecondary</color>
+    <color name="aboutEmailText">@color/colorSecondary</color>
+    <color name="aboutCloseButton">@color/colorPrimaryDark</color>
+
+
+    <color name="mtrl_textinput_default_box_stroke_color" tools:ignore="PrivateResource">@color/black_60</color>
+
+</resources>

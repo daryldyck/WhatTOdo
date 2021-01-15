@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/previewMain_constraintLayout"
+    android:layout_width="@dimen/preview_card_width"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/margin_4"
+    android:background="@drawable/card_background">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/previewPhoto_cardView"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="@dimen/preview_card_image_height"
+        android:layout_marginStart="@dimen/margin_8"
+        android:layout_marginTop="@dimen/margin_8"
+        android:layout_marginEnd="@dimen/margin_8"
+        app:cardBackgroundColor="@color/transparent"
+        app:cardCornerRadius="@dimen/preview_card_image_radius"
+        app:cardElevation="@dimen/preview_card_image_elevation"
+        app:elevation="@dimen/preview_card_image_elevation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/previewPhoto_imageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/ic_attraction_default" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/wishList_button"
+            android:layout_width="@dimen/wish_list_button_size_small"
+            android:layout_height="@dimen/wish_list_button_size_small"
+            android:layout_gravity="end"
+            android:layout_marginTop="@dimen/margin_4"
+            android:layout_marginEnd="@dimen/margin_4"
+            android:background="@drawable/ic_fav_bg"
+            app:backgroundTint="@color/black_transparent_80"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/ic_fav"
+            app:tint="@color/rating_selected_color" />
+    </com.google.android.material.card.MaterialCardView>
+
+    <TextView
+        android:id="@+id/previewName_textView"
+        style="@style/AttractionList.Name.Text"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_8"
+        android:layout_marginTop="@dimen/margin_2"
+        android:layout_marginEnd="@dimen/margin_8"
+        android:lines="1"
+        android:minLines="1"
+        android:text="Attraction Name"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/previewPhoto_cardView" />
+
+    <TextView
+        android:id="@+id/previewAddress_textView"
+        style="@style/AttractionList.Address.Text"
+        android:layout_width="@dimen/match_constraint"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_8"
+        android:layout_marginEnd="@dimen/margin_8"
+        android:layout_marginBottom="@dimen/margin_8"
+        android:maxLines="2"
+        android:text="Address"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/previewName_textView"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
